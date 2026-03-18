@@ -73,6 +73,3 @@ src/
 └── lib/              # Utilities and Supabase client
 ```
 
-## License
-
-MIT
